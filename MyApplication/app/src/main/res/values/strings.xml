@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="fonctions">
+        <item>Noir et blanc</item>
+        <item>Coloriser (aleatoire)</item>
+        <item>Conserver le rouge</item>
+        <item>Extension de dynamique (noir et blanc)</item>
+        <item>Egalisation histogramme (noir et blanc)</item>
+    </string-array>
+</resources>
